@@ -24,10 +24,11 @@ export default function Contact() {
       <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {/* Contact Form */}
         <form
-          action="da542dba6b4b0589021c077f4e4bc6da"
+          action="https://formsubmit.co/partozamark2005@gmail.com"
           method="POST"
           className="grid gap-4"
         >
+          <input type="hidden" name="_captcha" value="false"></input>
           <input
             type="text"
             name="name"
