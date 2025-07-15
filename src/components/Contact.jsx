@@ -24,7 +24,7 @@ export default function Contact() {
       <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {/* Contact Form */}
         <form
-          action="https://formsubmit.co/partozamark2005@gmail.com"
+          action="https://formsubmit.co/da542dba6b4b0589021c077f4e4bc6da"
           method="POST"
           className="grid gap-4"
         >
