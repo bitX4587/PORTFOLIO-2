@@ -18,6 +18,7 @@ import project7 from "../assets/Food Match Making Game.png";
 import project8 from "../assets/Map Game.png";
 import project9 from "../assets/Clothing Apparel.png";
 import project10 from "../assets/My Recipe.jpg";
+import project11 from "../assets/Platformer Game.png";
 
 export default function Projects() {
   const [filterCategory, setFilterCategory] = useState("all");
@@ -101,6 +102,14 @@ export default function Projects() {
         "A personal recipe notes application designed for organizing, storing, and editing recipes. Features image support, OCR Scanner, offline capability, search/filter options, and a user-friendly interface. Built with React Native, SQLite, and Expo for Android devices.",
       image: project10, // Replace with your actual imported image
       category: "mobile", // since it's an app
+      link: "#", // Replace with your actual live link or GitHub repo
+    },
+    {
+      title: "Platformer Alien Game",
+      description:
+        "A 2D platformer game built using Python and Pygame, featuring an alien character navigating through obstacles and enemies. Developed and tested in Sublime Text, this game showcases core game development concepts like physics, collisions, and sprite animations.",
+      image: project11, // Replace with your actual imported image
+      category: "game",
       link: "#", // Replace with your actual live link or GitHub repo
     },
 
