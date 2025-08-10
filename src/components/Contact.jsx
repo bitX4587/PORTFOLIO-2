@@ -1,14 +1,11 @@
 import {
-  FaGithub,
   FaLinkedin,
   FaFacebook,
   FaInstagram,
   FaEnvelope,
-  FaTiktok,
   FaReddit,
 } from "react-icons/fa";
 import { TbBrandFiverr } from "react-icons/tb";
-import { FaXTwitter } from "react-icons/fa6";
 
 export default function Contact() {
   return (
@@ -78,14 +75,6 @@ export default function Contact() {
           <FaEnvelope className="hover:text-white transition" />
         </a>
         <a
-          href="https://github.com/bitX4587"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="GitHub"
-        >
-          <FaGithub className="hover:text-white transition" />
-        </a>
-        <a
           href="https://www.linkedin.com/in/mark-daniel-partoza-71499530b"
           target="_blank"
           rel="noopener noreferrer"
@@ -102,14 +91,6 @@ export default function Contact() {
           <TbBrandFiverr className="hover:text-white transition" />
         </a>
         <a
-          href="https://x.com/DanielPart30878"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="Twitter"
-        >
-          <FaXTwitter className="hover:text-white transition" />
-        </a>
-        <a
           href="https://www.facebook.com/profile.php?id=61577984500578"
           target="_blank"
           rel="noopener noreferrer"
@@ -124,14 +105,6 @@ export default function Contact() {
           title="Instagram"
         >
           <FaInstagram className="hover:text-white transition" />
-        </a>
-        <a
-          href="https://www.tiktok.com/@llemaurc?is_from_webapp=1&sender_device=pc"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="TikTok"
-        >
-          <FaTiktok className="hover:text-white transition" />
         </a>
         <a
           href="https://www.reddit.com/user/llemaurc/"

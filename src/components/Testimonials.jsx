@@ -26,6 +26,12 @@ const testimonials = [
     name: "Alex Kim",
     role: "Manager at CodePath",
   },
+  {
+    quote:
+      "Hey bro. I got 95 grade not bad. Pasado naman. The website/database you created was great. I would recommend you to my friends if  need nila. Thankyou again for helping me. 🎉👍🏼",
+    name: "Arnel Adora",
+    role: "MAPPUA student",
+  },
 ];
 
 export default function Testimonials() {

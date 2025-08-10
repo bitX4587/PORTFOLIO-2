@@ -19,6 +19,7 @@ import project8 from "../assets/Map Game.png";
 import project9 from "../assets/Clothing Apparel.png";
 import project10 from "../assets/My Recipe.jpg";
 import project11 from "../assets/Platformer Game.png";
+import project12 from "../assets/E-Homes 5 Apartment.png";
 
 export default function Projects() {
   const [filterCategory, setFilterCategory] = useState("all");
@@ -111,6 +112,14 @@ export default function Projects() {
       image: project11, // Replace with your actual imported image
       category: "game",
       link: "#", // Replace with your actual live link or GitHub repo
+    },
+    {
+      title: "E-Homes 5 Apartment",
+      description:
+        "A rental management system built using PHP, MySQL, and Bootstrap for managing tenant information, unit availability, rent payments, and receipts. Features include admin login, CRUD operations, unit assignment with availability tracking, automated rent due monitoring, and PDF receipt generation. Designed for ease of use and efficient apartment management.",
+      image: project12, // Replace with your actual imported image
+      category: "web",
+      link: "https://e-homes-5-apartment.great-site.net/src/index.php", // Replace with your actual live link or GitHub repo
     },
 
     // Add more projects here as needed
