@@ -36,7 +36,7 @@ export default function Projects() {
     {
       title: "Hair, Nails and Beyond",
       description:
-        "A modern salon and e-commerce website designed for booking beauty services and showcasing product offerings. Built with PHP, SQL, and Tailwind CSS, it includes admin controls, secure bookings, and email notifications via PHPMailer.",
+        "A modern salon and e-commerce website designed for booking beauty services. Built with PHP, MySQL, and Tailwind CSS, it includes admin controls, secure bookings, and email notifications via PHPMailer.",
       image: project5, // Replace with your actual image import
       category: "web",
       link: "https://hair-nails-and-beyond.is-best.net/", // Replace with your actual link
@@ -44,7 +44,7 @@ export default function Projects() {
     {
       title: "Art Gallery System",
       description:
-        "A mobile-responsive web platform for managing and showcasing digital artworks. Features include admin-curated galleries, artist submissions, image uploads, and category-based filtering. Built using PHP, SQL, and Bootstrap.",
+        "A mobile-responsive web platform for managing and showcasing digital artworks. Features include admin login, artist submissions and image uploads. Built using PHP, MySQL, and Bootstrap.",
       image: project2, // Replace with your actual image import
       category: "web",
       link: "http://art-gallery-system.is-great.org/",
@@ -60,7 +60,7 @@ export default function Projects() {
     {
       title: "Information Hub System",
       description:
-        "A centralized web-based platform for managing and distributing organizational announcements, events, and resources. Built with PHP, MySQL, and Bootstrap, this system streamlines information sharing and ensures users stay informed in real-time.",
+        "A centralized web-based platform for managing organizational/personal resources and also include a notes vault for privacy. Built with PHP, MySQL, and Bootstrap, this system helps create information with ease.",
       image: project3, // replace with your actual import if needed
       category: "web",
       link: "https://information-hub-system.great-site.net/",
