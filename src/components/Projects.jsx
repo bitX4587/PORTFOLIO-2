@@ -20,6 +20,7 @@ import project9 from "../assets/Clothing Apparel.png";
 import project10 from "../assets/My Recipe.jpg";
 import project11 from "../assets/Platformer Game.png";
 import project12 from "../assets/E-Homes 5 Apartment.png";
+import project13 from "../assets/Website Editor.png";
 
 export default function Projects() {
   const [filterCategory, setFilterCategory] = useState("all");
@@ -64,6 +65,14 @@ export default function Projects() {
       image: project3, // replace with your actual import if needed
       category: "web",
       link: "https://information-hub-system.great-site.net/",
+    },
+    {
+      title: "Website Editor",
+      description:
+        "A drag-and-drop website editor that allows users to visually design responsive web pages in real time. Built with React, Vite, and Tailwind CSS, it includes resizable and draggable components, live HTML export, and device preview modes.",
+      image: project13, // replace with your actual import if needed
+      category: "web",
+      link: "https://website-editor-liard.vercel.app/",
     },
     {
       title: "Anime World",
