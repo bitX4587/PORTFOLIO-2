@@ -34,12 +34,28 @@ export default function Projects() {
       link: "https://graduates-ebook-management.vercel.app/",
     },
     {
+      title: "Hair, Nails and Beyond",
+      description:
+        "A modern salon and e-commerce website designed for booking beauty services and showcasing product offerings. Built with PHP, SQL, and Tailwind CSS, it includes admin controls, secure bookings, and email notifications via PHPMailer.",
+      image: project5, // Replace with your actual image import
+      category: "web",
+      link: "https://hair-nails-and-beyond.is-best.net/", // Replace with your actual link
+    },
+    {
       title: "Art Gallery System",
       description:
         "A mobile-responsive web platform for managing and showcasing digital artworks. Features include admin-curated galleries, artist submissions, image uploads, and category-based filtering. Built using PHP, SQL, and Bootstrap.",
       image: project2, // Replace with your actual image import
       category: "web",
       link: "http://art-gallery-system.is-great.org/",
+    },
+    {
+      title: "E-Homes 5 Apartment",
+      description:
+        "A rental management system built using PHP, MySQL, and Bootstrap for managing tenant information, unit availability, rent payments, and receipts. Features include admin login, CRUD operations, unit assignment with availability tracking, automated rent due monitoring, and PDF receipt generation. Designed for ease of use and efficient apartment management.",
+      image: project12, // Replace with your actual imported image
+      category: "web",
+      link: "https://e-homes-5-apartment.great-site.net/src/index.php", // Replace with your actual live link or GitHub repo
     },
     {
       title: "Information Hub System",
@@ -55,38 +71,6 @@ export default function Projects() {
         "A visually engaging anime website crafted using HTML, JavaScript, and vanilla CSS. It features categorized anime collections, detailed series pages, and a sleek, responsive design without relying on any frameworks.",
       image: project4, // Replace with your actual image import
       category: "web",
-      link: "#", // Replace with your actual link
-    },
-    {
-      title: "Hair, Nails and Beyond",
-      description:
-        "A modern salon and e-commerce website designed for booking beauty services and showcasing product offerings. Built with PHP, SQL, and Tailwind CSS, it includes admin controls, secure bookings, and email notifications via PHPMailer.",
-      image: project5, // Replace with your actual image import
-      category: "web",
-      link: "https://hair-nails-and-beyond.is-best.net/", // Replace with your actual link
-    },
-    {
-      title: "Computer Matchmaking Game",
-      description:
-        "A fun and interactive matchmaking game that pairs virtual characters based on compatibility logic. Designed as an educational project with engaging UI, logical conditions, and randomized pairing. Built with Pygame and Sublime Text.",
-      image: project6, // Replace with the appropriate imported image
-      category: "game",
-      link: "#", // Replace with your actual game link
-    },
-    {
-      title: "Food Matchmaking Game",
-      description:
-        "A fun browser-based game where players match foods based on themes or compatibility rules. Designed with simple logic and engaging visuals to enhance user interaction. Built using Pygame and Sublime Text.",
-      image: project7, // Replace with the correct imported image
-      category: "game",
-      link: "#", // Replace with your actual game link
-    },
-    {
-      title: "Map Game",
-      description:
-        "An interactive geography-based game where players identify countries, cities, or landmarks on a map. Designed to be educational and engaging, it challenges spatial memory and location knowledge. Built using Pygame and Sublime Text.",
-      image: project8, // Replace with your actual imported image
-      category: "game",
       link: "#", // Replace with your actual link
     },
     {
@@ -106,20 +90,36 @@ export default function Projects() {
       link: "#", // Replace with your actual live link or GitHub repo
     },
     {
+      title: "Map Game",
+      description:
+        "An interactive geography-based game where players identify countries, cities, or landmarks on a map. Designed to be educational and engaging, it challenges spatial memory and location knowledge. Built using Pygame and Sublime Text.",
+      image: project8, // Replace with your actual imported image
+      category: "game",
+      link: "#", // Replace with your actual link
+    },
+    {
+      title: "Computer Matchmaking Game",
+      description:
+        "A fun and interactive matchmaking game that pairs virtual characters based on compatibility logic. Designed as an educational project with engaging UI, logical conditions, and randomized pairing. Built with Pygame and Sublime Text.",
+      image: project6, // Replace with the appropriate imported image
+      category: "game",
+      link: "#", // Replace with your actual game link
+    },
+    {
+      title: "Food Matchmaking Game",
+      description:
+        "A fun browser-based game where players match foods based on themes or compatibility rules. Designed with simple logic and engaging visuals to enhance user interaction. Built using Pygame and Sublime Text.",
+      image: project7, // Replace with the correct imported image
+      category: "game",
+      link: "#", // Replace with your actual game link
+    },
+    {
       title: "Platformer Alien Game",
       description:
         "A 2D platformer game built using Python and Pygame, featuring an alien character navigating through obstacles and enemies. Developed and tested in Sublime Text, this game showcases core game development concepts like physics, collisions, and sprite animations.",
       image: project11, // Replace with your actual imported image
       category: "game",
       link: "#", // Replace with your actual live link or GitHub repo
-    },
-    {
-      title: "E-Homes 5 Apartment",
-      description:
-        "A rental management system built using PHP, MySQL, and Bootstrap for managing tenant information, unit availability, rent payments, and receipts. Features include admin login, CRUD operations, unit assignment with availability tracking, automated rent due monitoring, and PDF receipt generation. Designed for ease of use and efficient apartment management.",
-      image: project12, // Replace with your actual imported image
-      category: "web",
-      link: "https://e-homes-5-apartment.great-site.net/src/index.php", // Replace with your actual live link or GitHub repo
     },
 
     // Add more projects here as needed

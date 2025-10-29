@@ -9,28 +9,26 @@ const testimonials = [
     role: "CEO at BrightTech",
   },
   {
-    quote:
-      "Working with Mark was a seamless experience. The end product exceeded our expectations.",
-    name: "John Doe",
-    role: "Founder at DevHub",
+    quote: "Solid po ng progress sir! Salamat!",
+    name: "Kobe Forte",
+    role: "Student",
+  },
+  {
+    quote: "Okay po, sige po salamat po.",
+    name: "Jesmane Yvonne",
+    role: "Student",
   },
   {
     quote:
-      "His attention to detail and clean code helped our platform scale faster than we imagined.",
-    name: "Sarah Lee",
-    role: "CTO at StartupCraft",
-  },
-  {
-    quote:
-      "Reliable, skilled, and always ahead of deadlines. Mark is a joy to work with!",
-    name: "Alex Kim",
-    role: "Manager at CodePath",
+      "Well Mark. Welcome to the team my friend. I am excited to have you officially on board.",
+    name: "Rask Sly",
+    role: "Manager at LOOT OF THE LOOM",
   },
   {
     quote:
       "Hey bro. I got 95 grade not bad. Pasado naman. The website/database you created was great. I would recommend you to my friends if  need nila. Thankyou again for helping me. 🎉👍🏼",
     name: "Arnel Adora",
-    role: "MAPPUA student",
+    role: "Student",
   },
 ];
 
