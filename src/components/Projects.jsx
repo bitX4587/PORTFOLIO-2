@@ -21,6 +21,7 @@ import project10 from "../assets/My Recipe.jpg";
 import project11 from "../assets/Platformer Game.png";
 import project12 from "../assets/E-Homes 5 Apartment.png";
 import project13 from "../assets/Website Editor.png";
+import project14 from "../assets/Orgmerch Website.png";
 
 export default function Projects() {
   const [filterCategory, setFilterCategory] = useState("all");
@@ -43,12 +44,12 @@ export default function Projects() {
       link: "https://hair-nails-and-beyond.is-best.net/", // Replace with your actual link
     },
     {
-      title: "Art Gallery System",
+      title: "OrgMerch Website",
       description:
-        "A mobile-responsive web platform for managing and showcasing digital artworks. Features include admin login, artist submissions and image uploads. Built using PHP, MySQL, and Bootstrap.",
-      image: project2, // Replace with your actual image import
+        "A mobile-responsive e-commerce website for selling organization merchandise. Features include admin and user accounts, product listings, detailed product pages, and a checkout system. Built using PHP, MySQL, and Bootstrap.",
+      image: project14, // Replace with your actual image import
       category: "web",
-      link: "http://art-gallery-system.is-great.org/",
+      link: "https://org-merch.great-site.net/",
     },
     {
       title: "E-Homes 5 Apartment",
@@ -65,6 +66,14 @@ export default function Projects() {
       image: project3, // replace with your actual import if needed
       category: "web",
       link: "https://information-hub-system.great-site.net/",
+    },
+    {
+      title: "Art Gallery System",
+      description:
+        "A mobile-responsive web platform for managing and showcasing digital artworks. Features include admin login, artist submissions and image uploads. Built using PHP, MySQL, and Bootstrap.",
+      image: project2, // Replace with your actual image import
+      category: "web",
+      link: "http://art-gallery-system.is-great.org/",
     },
     {
       title: "Website Editor",

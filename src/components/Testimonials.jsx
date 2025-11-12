@@ -4,9 +4,15 @@ import { useKeenSlider } from "keen-slider/react";
 const testimonials = [
   {
     quote:
-      "Mark transformed our online presence with a sleek, fast, and professional website. Highly recommended!",
-    name: "Jane Smith",
-    role: "CEO at BrightTech",
+      "Well Mark. Welcome to the team my friend. I am excited to have you officially on board.",
+    name: "Rask Sly",
+    role: "Manager at LOOT OF THE LOOM",
+  },
+  {
+    quote:
+      "Sige po, sama nyo nadin po dun sa explanation HAHA! thank youu, ako na lang po kasi mag isa sowwyy",
+    name: "Sheena Reyes",
+    role: "Student",
   },
   {
     quote: "Solid po ng progress sir! Salamat!",
@@ -17,12 +23,6 @@ const testimonials = [
     quote: "Okay po, sige po salamat po.",
     name: "Jesmane Yvonne",
     role: "Student",
-  },
-  {
-    quote:
-      "Well Mark. Welcome to the team my friend. I am excited to have you officially on board.",
-    name: "Rask Sly",
-    role: "Manager at LOOT OF THE LOOM",
   },
   {
     quote:
