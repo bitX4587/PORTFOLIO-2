@@ -21,7 +21,7 @@ import project10 from "../assets/My Recipe.jpg";
 import project11 from "../assets/Platformer Game.png";
 import project12 from "../assets/E-Homes 5 Apartment.png";
 import project13 from "../assets/Website Editor.png";
-import project14 from "../assets/Orgmerch Website.png";
+import project14 from "../assets/OrgMerch Website.png";
 
 export default function Projects() {
   const [filterCategory, setFilterCategory] = useState("all");
