@@ -4,30 +4,35 @@ import { useKeenSlider } from "keen-slider/react";
 const testimonials = [
   {
     quote:
-      "Well Mark. Welcome to the team my friend. I am excited to have you officially on board.",
-    name: "Rask Sly",
+      "Thank you Mark and welcome to the team, my friend. I am excited to have you officially on board.",
+    name: "Rask",
     role: "Manager at LOOT OF THE LOOM",
   },
   {
     quote:
-      "Sige po, sama nyo nadin po dun sa explanation HAHA! thank youu, ako na lang po kasi mag isa sowwyy",
-    name: "Sheena Reyes",
+      "Sige po, sama nyo nadin po dun sa explanation HAHA! thank youu po sir Mark!",
+    name: "Sheena",
     role: "Student",
   },
   {
     quote: "Solid po ng progress sir! Salamat!",
-    name: "Kobe Forte",
+    name: "Kobe",
     role: "Student",
   },
   {
-    quote: "Okay po, sige po salamat po.",
-    name: "Jesmane Yvonne",
+    quote: "Ang galing sir, salamat po.",
+    name: "Jesmane",
+    role: "Student",
+  },
+  {
+    quote: "Nice, Thankyouuuuusooomuchhh ya",
+    name: "Paul",
     role: "Student",
   },
   {
     quote:
       "Hey bro. I got 95 grade not bad. Pasado naman. The website/database you created was great. I would recommend you to my friends if  need nila. Thankyou again for helping me. 🎉👍🏼",
-    name: "Arnel Adora",
+    name: "Arnel",
     role: "Student",
   },
 ];
