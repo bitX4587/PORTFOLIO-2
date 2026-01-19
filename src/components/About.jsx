@@ -72,14 +72,14 @@ export default function About() {
           transition={{ duration: 0.6 }}
           className="w-full lg:w-1/2 space-y-6 text-center lg:text-left"
         >
-          <p className="text-gray-700 text-lg leading-relaxed text-left">
+          <p className="text-gray-600 text-lg leading-relaxed text-left">
             I'm <strong>Mark Daniel Marbella Partoza</strong>, a passionate web
-            developer with over <strong>5 years</strong> of experience crafting
+            developer with over <strong>3 years</strong> of experience crafting
             high-impact websites, games and applications. I specialize in
             creating responsive, user-friendly interfaces using modern web
             technologies and frameworks.
           </p>
-          <p className="text-gray-700 text-lg mb-12 lg:mb-8 text-left">
+          <p className="text-gray-600 text-lg mb-12 lg:mb-8 text-left">
             My mission is to help businesses and individuals turn ideas into
             reality through clean code, thoughtful design, and scalable
             solutions.

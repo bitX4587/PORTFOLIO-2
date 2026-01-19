@@ -9,8 +9,7 @@ const testimonials = [
     role: "Manager at LOOT OF THE LOOM",
   },
   {
-    quote:
-      "Sige po, sama nyo nadin po dun sa explanation HAHA! thank youu po sir Mark!",
+    quote: "Sige po, sama nyo nadin po dun sa explanation HAHA! Thank youu po!",
     name: "Sheena",
     role: "Student",
   },

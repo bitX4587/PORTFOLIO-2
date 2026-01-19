@@ -31,11 +31,11 @@ import project41 from "../assets/CO2 Concentration Indicator.png";
 import project42 from "../assets/Obstacle Detector.png";
 import project43 from "../assets/Hello World 16 x 2.png";
 
-import project44 from "../assets/art-gallery-system.png";
-import project45 from "../assets/e-homes-5-apartment.png";
-import project46 from "../assets/hair-nails-and-beyond.png";
-import project47 from "../assets/mark-daniel-partoza-portfolio-v-1.png";
-import project48 from "../assets/org-merch.png";
+// import project44 from "../assets/art-gallery-system.png";
+// import project45 from "../assets/e-homes-5-apartment.png";
+// import project46 from "../assets/hair-nails-and-beyond.png";
+// import project47 from "../assets/mark-daniel-partoza-portfolio-v-1.png";
+// import project48 from "../assets/org-merch.png";
 
 import project1 from "../assets/Graduates-Ebook.png";
 import project2 from "../assets/Art-Gallery.png";
@@ -171,7 +171,15 @@ export default function Projects() {
       link: "#",
     },
     {
-      title: "Mark's Personal Website",
+      title: "First E-Portfolio",
+      description:
+        "A creatively designed personal website with a unique layout and visual identity. Built to stand out through custom styling, responsiveness, and modern web design principles.",
+      image: project24,
+      category: "web",
+      link: "#",
+    },
+    {
+      title: "Second E-Portfolio",
       description:
         "A personal portfolio website created to highlight skills, projects, and background information. Designed with a clean layout, responsive structure, and professional presentation for personal branding.",
       image: project18,
@@ -179,7 +187,7 @@ export default function Projects() {
       link: "#",
     },
     {
-      title: "Susana's Personal Website",
+      title: "Susana's E-Portfolio",
       description:
         "A custom personal website built to showcase individual achievements, projects, and profile details. The site focuses on simplicity, visual clarity, and responsive design.",
       image: project19,
@@ -215,14 +223,6 @@ export default function Projects() {
       description:
         "A YouTube-style web platform focusing on video layout, content feeds, and responsive design. This project highlights UI replication, layout structuring, and modern frontend techniques.",
       image: project23,
-      category: "web",
-      link: "#",
-    },
-    {
-      title: "Unique Personal Website",
-      description:
-        "A creatively designed personal website with a unique layout and visual identity. Built to stand out through custom styling, responsiveness, and modern web design principles.",
-      image: project24,
       category: "web",
       link: "#",
     },
