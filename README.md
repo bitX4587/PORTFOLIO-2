@@ -1,12 +1,78 @@
-# React + Vite
+# 💼 PORTFOLIO-2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive professional portfolio built for **freelancing and client work**, showcasing real-world projects, technical expertise, and interactive features in a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👋 About
 
-## Expanding the ESLint configuration
+**PORTFOLIO-2** is a sleek, performance-focused portfolio designed to present my skills in **web, mobile, and game development**. Built with modern frontend technologies, it serves as a central hub for clients, employers, and collaborators to explore my work, tech stack, and capabilities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The site also includes an **interactive chatbot** for quick assistance and smoother user engagement.
+
+---
+
+## ✨ Features
+
+- ⚡ Built with **React + Vite** for fast performance
+- 🎨 Styled using **Tailwind CSS**
+- 📱 Fully responsive (desktop, tablet, mobile)
+- 🤖 Interactive chatbot for quick support
+- 🧩 Organized display of real-world projects
+- 🛠️ Clear presentation of tech stack and skills
+- 🚀 Optimized for freelancers and recruiters
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, JavaScript
+- **Styling:** Tailwind CSS
+- **State Management:** React Hooks
+- **UI/UX:** Responsive & modern design principles
+
+---
+
+## 📁 Project Structure
+
+```text
+PORTFOLIO-2/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.jsx
+├── public/
+├── index.html
+├── tailwind.config.js
+└── vite.config.js
+🚀 Getting Started
+Clone the repository:
+
+git clone https://github.com/bitx4587/PORTFOLIO-2.git
+Install dependencies:
+
+npm install
+Start the development server:
+
+npm run dev
+Open the local URL provided by Vite in your browser
+
+🌍 Live Demo
+Add your deployed site here (GitHub Pages, Vercel, Netlify, etc.)
+
+https://mark-daniel-partoza-portfolio-v-1.vercel.app/
+🎯 Use Case
+Freelance client showcase
+
+Job applications and recruiter reviews
+
+Personal branding and online presence
+
+📄 License
+This project is open-source and available under the MIT License.
+
+👨‍💻 Author
+Mark Daniel Partoza
+Freelance Web, Mobile & Game Developer
+```
